@@ -1,2 +1,2 @@
 # data
-Public data sets relevant to the Dudley Street Neighborhood Initiative.
+public data sets relevant to the dudley street neighborhood initiative
