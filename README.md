@@ -82,5 +82,6 @@ data about work, labor, and employment
 
 *[saipe](http://www.census.gov/did/www/saipe/) small area income and poverty estimates by school district
 
-*[soi](http://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-ZIP-Code-Data-(SOI) federal individual income tax fiels by zip
+*[soi](http://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-ZIP-Code-Data-(SOI) 
+federal individual income tax fiels by zip
 
