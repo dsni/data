@@ -9,7 +9,7 @@ asset
 
 data sets related to asset infrastructure and asset building
 
-*[fdic](http://www2.fdic.gov/sod) FDIC-insured summary of deposit activity
+*[fdic](http://www2.fdic.gov/sod) fdic-insured summary of deposit activity
 
 *[libs](http://www.imls.gov/research/public_libraries_in_the_united_states_survey.aspx) public libraries	
 
