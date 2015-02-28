@@ -18,22 +18,19 @@ asset
 
 census
 	
-	data sets from the u.s. census
-	
-	[acs](http://www.census.gov/acs/www) american community survey
-	[decennial](http://factfinder2.census.gov/faces/nav/jsf/pages/wc_dec.xhtml) decennial census
-	[meta](https://raw.githubusercontent.com/dsni/data/master/census/meta) acs metadata code book
-	[tracts](https://raw.githubusercontent.com/dsni/data/master/census/tracts) census tracts in the dvc
+data sets from the u.s. census
+[acs](http://www.census.gov/acs/www) american community survey	[decennial](http://factfinder2.census.gov/faces/nav/jsf/pages/wc_dec.xhtml) decennial census
+[meta](https://raw.githubusercontent.com/dsni/data/master/census/meta) acs metadata code book
+[tracts](https://raw.githubusercontent.com/dsni/data/master/census/tracts) census tracts in the dvc
 
 envt
 	
-	data about the physical and ecological envirnment
-	
-	[berk](http://berkeleyearth.org/data) berkeley earth
-	[echo](http://echo.epa.gov/) epa enforcement and compliance history
-	[epa](http://epa.gov/smartgrowth/smartlocationdatabase.htm) epa smart location database
-	[tox](http://www.epa.gov/tri/) epa toxic release inventory
-	[ejs](http://www.epa.gov/air/caaac/pdfs/ejscreen_102914.pdf) environmental screening tool
+data about the physical and ecological envirnment	
+[berk](http://berkeleyearth.org/data) berkeley earth	
+[echo](http://echo.epa.gov/) epa enforcement and compliance history
+[epa](http://epa.gov/smartgrowth/smartlocationdatabase.htm) epa smart location database
+[tox](http://www.epa.gov/tri/) epa toxic release inventory
+[ejs](http://www.epa.gov/air/caaac/pdfs/ejscreen_102914.pdf) environmental screening tool
 
 home 
 
