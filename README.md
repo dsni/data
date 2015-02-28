@@ -51,15 +51,24 @@ home
 data about households and home ownership
 
 *[afford](http://www.locationaffordability.info/) location affordability index
+
 *[gse](http://www.huduser.org/datasets/gse.html) government-sponsored enterprise mortgage data
+
 *[hmda](http://www.ffiec.gov/hmda) home disclosure act
+
 *[hud](http://www.huduser.org/datasets/cp.html) consolidated plan and hud special tabulation data
+
 *[lihtc](http://lihtc.huduser.org) low income housing trax credit
+
 *[multi](http://www.hud.gov/offices/hsg/mfh/exp/mfhdiscl.cfm) multifamily assistance and section * contracts
+
 *[presv](http://www.preservationdatabase.org) national preservation database
+
 *[subz](http://www.huduser.org/portal/datasets/assthsg.html) subsidized housing
+
 *[usps](http://www.huduser.org/portal/datasets/usps.html) united states post office vacancy data
-*[watch](https://entp.hud.gov/sfnw/public) hud neighborhood watch 
+
+*[watch](https://entp.hud.gov/sfnw/public) hud neighborhood watch
 
 work
 	
