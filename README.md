@@ -84,3 +84,4 @@ data about work, labor, and employment
 
 *[soi](http://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-ZIP-Code-Data-(SOI)) federal individual income tax files by zip code
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15724.svg)](http://dx.doi.org/10.5281/zenodo.15724)
