@@ -73,3 +73,14 @@ data about households and home ownership
 work
 	
 data about work, labor, and employment
+
+*[biz](http://www.census.gov/epcd/www/zbp_base.html) zip business patterns
+
+*[lodes](http://lehd.ces.census.gov/data/) lehd origin-destination employment statistics
+
+*[oasdi](http://www.ssa.gov/policy/docs/statcomps/oasdi_zip/index.html) old-age, survivors, and disability insurance beneficiaries by zip 
+
+*[saipe](http://www.census.gov/did/www/saipe/) small area income and poverty estimates by school district
+
+*[soi](http://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-ZIP-Code-Data-(SOI) federal individual income tax fiels by zip
+
