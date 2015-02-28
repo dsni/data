@@ -1,7 +1,7 @@
 # data
 public data sets relevant to the dudley street neighborhood initiative
 
-adapted from Kathy Pettit's 
+adapted from kathy pettit's table[http://www.neighborhoodindicators.org/library/catalog/list-national-data-sets-small-area-data] of national data sets with small-area data via national neighborhood indicators partnership
 
 file structure as follows
 
