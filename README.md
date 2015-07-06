@@ -5,7 +5,7 @@ adapted from kathy pettit's [table](http://www.neighborhoodindicators.org/librar
 
 file structure as follows
 
-##### Asset
+#### Asset
 
 data sets related to asset infrastructure and asset building
 
@@ -20,7 +20,7 @@ data sets related to asset infrastructure and asset building
 * [nces](http://nces.ed.gov/surveys/SurveyGroups.asp?Group=1) national center for education statistics
 
 
-Census
+#### Census
 	
 data sets from the u.s. census
 
@@ -46,7 +46,7 @@ data about the physical and ecological envirnment
 
 * [ejs](http://www.epa.gov/air/caaac/pdfs/ejscreen_102914.pdf) environmental screening tool
 
-Home 
+#### Home 
 
 data about households and home ownership
 
@@ -70,7 +70,7 @@ data about households and home ownership
 
 * [watch](https://entp.hud.gov/sfnw/public) hud neighborhood watch
 
-Work
+#### Work
 	
 data about work, labor, and employment
 
