@@ -34,7 +34,7 @@ data sets from the u.s. census
 
 #### Envt
 	
-data about the physical and ecological envirnment
+data about the physical and ecological environment
 
 * [berk](http://berkeleyearth.org/data) berkeley earth	
 
@@ -58,9 +58,9 @@ data about households and home ownership
 
 * [hud](http://www.huduser.org/datasets/cp.html) consolidated plan and hud special tabulation data
 
-* [lihtc](http://lihtc.huduser.org) low income housing trax credit
+* [lihtc](http://lihtc.huduser.org) low income housing tax credit
 
-* [multi](http://www.hud.gov/offices/hsg/mfh/exp/mfhdiscl.cfm) multifamily assistance and section * contracts
+* [multi](http://www.hud.gov/offices/hsg/mfh/exp/mfhdiscl.cfm) multifamily assistance and section 8 contracts
 
 * [presv](http://www.preservationdatabase.org) national preservation database
 
